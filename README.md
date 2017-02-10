@@ -14,6 +14,7 @@
 - [MarkdownPreview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 - [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
+- [Jekyll](https://packagecontrol.io/packages/Jekyll)
 
 
 

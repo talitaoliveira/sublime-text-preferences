@@ -4,7 +4,7 @@
 
 **Plugins**
 
-```
+
 - [AutoFilename](https://packagecontrol.io/packages/AutoFileName)
 - [BracketHighlighther](https://packagecontrol.io/packages/BracketHighlighter)
 - [ColorHighlighther](https://packagecontrol.io/packages/Color%20Highlighter)
@@ -15,7 +15,7 @@
 - [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
 - [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON)
 
-```
+
 
 **KeyBindings**
 

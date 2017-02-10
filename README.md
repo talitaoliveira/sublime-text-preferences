@@ -17,7 +17,7 @@
 
 ```
 
-**KeyBidings**
+**KeyBindings**
 
 ```
 [
